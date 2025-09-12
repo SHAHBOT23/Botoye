@@ -26,7 +26,7 @@ react.includes("🤤") || react.includes("😀") || react.includes("🤨") || re
 				body: ""
 			}
 			api.sendMessage(lab, threadID, messageID);
-    api.setMessageReaction("😎", event.messageID, (err) => {}, true)
+    api.setMessageReaction("🥰", event.messageID, (err) => {}, true)
           };
     if(react.includes("sakit") || react.includes("Sakit") || react.includes("saket") || react.includes("Saket") || react.includes("peyn") || react.includes("Peyn") || react.includes("Pain") || react.includes("Pera") || react.includes("pera") || react.includes("kosto lage") || react.includes("Kosto Lage") || react.includes("saktan") || react.includes("Saktan") || react.includes("I'm ok") || react.includes("sasaktan") || react.includes("sad") || react.includes("Sad") || react.includes("Kosto") || react.includes("kosto") || react.includes(" 😥") || react.includes("😰") || react.includes("😨") || react.includes("😢") || react.includes(":(") || react.includes("😔") || react.includes("😞") || react.includes("depress") || react.includes("stress") || react.includes("Stress") || react.includes("Depress") || react.includes("depression") || react.includes("Depression") || react.includes("Picchi") || react.includes("picchi") || react.includes("😭")) {
       var sad = {
